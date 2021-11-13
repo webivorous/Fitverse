@@ -1,12 +1,5 @@
 # Fitverse - Diet and Workout Recommenhdation Engine
 ---
-
-## SECTION 1 : PROJECT TITLE
-## Food and Workout Recommendation Intelligent Self-Learning System
-
-![Meal and Exercise Planner Logo](Image.png?raw=true "Meal and Exercise Planner")
-  
----
 ## SUMMARY
 In today’s fast-paced society, it is very challenging to eat right and exercise right. Most people know the benefits and desire to eat a balanced diet and to do the right amount of exercise, but many just do not have the time to plan what to eat and how much and what exercise to do. Some tired to count calories but there is up to now, no quick and accurate way to do so. 
 On the other hand, eating is also an activity which can bring happiness. We all feel happy when we are served our favourite food. How do we maximise this happiness and at the same time avoid putting on extra weight which makes us feel guilty the next time we ordered that chocolate ice-cream? 
