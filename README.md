@@ -40,8 +40,4 @@ The notebooks have been validated on Google Colab. For local run on Linux or Win
 4. Run `pip install -r requirements.txt`
 5. Open the NotebooksAndData folder in commandline and type `jupyter notebook` to run the notebooks
 
-
-### Project Report
-The project report can be downloaded from the [Report](/Report) folder.
-
 ---
